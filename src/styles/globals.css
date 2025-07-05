@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@font-face {
+  font-family: 'Neue Haas';
+  src: url("/fonts/NeueHaasDisplayRoman.woff") format('woff');
+}
+
+@font-face {
+  font-family: 'Neue Haas Italic';
+  src: url("/fonts/NeueHaasDisplayRomanItalic.woff") format('woff');
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: black;
+  background-color: white;
+  font-family: 'Neue Haas';
+  scroll-behavior: smooth;
+  text-rendering: geometricPrecision;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

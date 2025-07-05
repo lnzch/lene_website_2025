@@ -1,0 +1,59 @@
+{
+  "lene-who": "With an interdisciplinary approach Lene Zech sees design as a broad spectrum and field of exploration. She focuses on a strong conceptual basis and works closely related to material and digital media. Currently she is doing her MA in visual communication at weissensee School of Art and Design in Berlin after she graduated in product design for glass and ceramics from Burg Giebichenstein University of Art and Design in Halle, Germany. \n\nfollow on instagram lenezech or write a mail@lenezech.de",
+  "contact": {
+    "insta": "https://www.instagram.com/lenezech/",
+    "mail": "mail@lenezech.de"
+  },
+  "projects": [
+    {
+      "title": "commemorative medal UMPRUM Prague",
+      "project-text" : "New commemorative medal for UMPRUM University of Art, Architecture and Design in Prague.<br/><br/> Three dimensional lettering of UMPRUM is been 3D laser engraved into glass. Letters are being created so that the schools name is readable just from one perspective. If the medal is turning the letters form new shapes and the object gets more interactive.3D type design, 2022",
+      "ID": 1,
+      "color": "#1810AB",
+      "images": [
+        {
+          "type": "image",
+          "url": "images/medal/medal1.jpg",
+          "isVertical": false,
+          "alternativeText": "three glass medals inside and outside of its packaging.",
+          "heightInPercent": 1
+        },
+        {
+          "type": "image",
+          "url": "images/medal/medal2.jpg",
+          "isVertical": true,
+          "alternativeText": "glass medal with 3 dimensional laser engraved Umprum slogan.",
+          "heightInPercent": 1
+        },
+        {
+          "type": "video",
+          "url": "images/medal/medal3.mp4",
+          "isVertical": true,
+          "alternativeText": "glass medal with 3 dimensional laser engraved Umprum slogan.",
+          "heightInPercent": 1
+        }
+      ]
+    }, {
+      "title": "informative online index algospeak",
+      "project-text" : "algospeak.info / an informative online index\\n\\nWe are moving within a pre-controlled world by search engine optimised and biased algorithms. Content gets shadow banned or censored because of the algorithmic black box fed with biased data when discussing issues of race, gender, class or sexuality. Outcome is a new ephemeral language development called algospeak, working around the moderation of a discriminative algorithm. This interactive web index shares a shadow banned and censored word list consisting of words which the algorithm is classifying as problematic. The vocabulary index collects words from search engines such as Google, Amazon as well as from social media platforms TikTok and Youtube.\n\nwebsite, 2022",
+      "ID": 2,
+      "color": "#FF0000",
+      "images": [
+        {
+          "type": "image",
+          "url": "images/algo/algo_1.jpg",
+          "isVertical": false,
+          "alternativeText": "landingpage of the website algospeak.info. listing of shadowbanned words.",
+          "heightInPercent": 1
+        },
+        {
+          "type": "image",
+          "url": "images/algo/algo_2.jpg",
+          "isVertical": true,
+          "alternativeText": "three screenshots of examples when interacting and clicking on a button with one of the shadowbanned words.",
+          "heightInPercent": 1
+        }
+      ]
+    }
+  ]
+}

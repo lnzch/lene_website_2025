@@ -1,0 +1,18 @@
+.container {
+    flex-grow: 1;
+    display: flex;
+    justify-content: flex-start;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+@media screen and (max-width: 900px) {
+    .container {
+        flex-direction: column;
+        flex-grow: unset;
+        overflow-x: hidden;
+        /*padding: 0 8px;*/
+        /*gap: 8px;*/
+        margin-top: 122px;
+    }
+}

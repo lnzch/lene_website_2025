@@ -1,0 +1,17 @@
+.main {
+    height: 72px;
+    width: 88px;
+    flex: 0 0 88px;
+}
+
+.main > img {
+    max-height: 100%;
+}
+
+@media screen and (max-width: 900px) {
+    .main {
+        width: 132px;
+        height: 107px;
+        flex: 0 0 132px;
+    }
+}

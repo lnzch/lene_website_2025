@@ -1,0 +1,30 @@
+.container {
+    flex-grow: 1;
+    /*background-color: blue;*/
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.projectListItem {
+    display: inline;
+}
+
+.navigationListItem {
+    color: black;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.navigationListItemActive {
+    text-decoration: underline;
+}
+
+.navigationListItem:hover {
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 900px) {
+    .container {
+        padding: 8px;
+    }
+}

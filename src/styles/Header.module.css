@@ -1,0 +1,48 @@
+.main {
+    position: fixed;
+    width: 100vw;
+    top: 0;
+    background-color: white;
+    padding: 4px;
+    z-index: 1;
+}
+
+.secondRow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.firstRow {
+    display: flex;
+    gap: 16px;
+    justify-content: space-between;
+}
+
+.mobilNavigation {
+    display: block;
+}
+
+.mobilNavigation.notVisible {
+    display: none;
+}
+
+.activeProjectMobil {
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (min-width: 900px) {
+
+    .main {
+        position: sticky;
+    }
+
+    .firstRow {
+        display: flex;
+        gap: 76px;
+        justify-content: space-between;
+    }
+}
+

@@ -1,0 +1,301 @@
+{
+  "lene-who": "Lene Zech is a research and concept-based graphic designer living and working in Berlin. She graduated from Burg Giebichenstein University of Art and Design in Halle, Germany, with a focus on product design for glass and ceramics before pursuing her MA in visual communication at weißensee University of Art and Design in Berlin. Her works explore the connection of (im)materiality and digital technologies, always with a strong conceptual foundation. She creates exhibition concepts, installations, objects, or interactions. Lene's research focuses on topics such as the possibilities of information exchange related to interactivity in the digital space.<br><br>get in touch <a href='mailto:mail@lenezech.de'>mail@lenezech.de</a>  / on instagram <a href='https://www.instagram.com/lenezech/' target='_blank'>lenezech</a> / get <a href='/CV_Zech.pdf' target='_blank' >CV</a>",
+  "contact": {
+    "insta": "https://www.instagram.com/lenezech/",
+    "mail": "mail@lenezech.de",
+    "CV": ""
+  },
+  "projects": [
+    {
+      "title": "type design: commemorative medal umprum prague",
+      "project-text" : "New Commemorative Medal for UMPRUM University of Art, Architecture and Design in Prague<br><br>Glass meets 3D laser engraving — the process of engraving a design into a transparent material at different depths to create a realistic three dimensional picture.<br>The conceptual focus of the medal was to create three dimensional type design in glass. Each letter of the schools name UMPRUM is only readable from one perspective. If the medal is turning, the letters form new shapes and the object gets more interactive.<br>(typography and type design, 2022)",
+      "ID": 3,
+      "color": "#1810AB",
+      "images": [
+        {
+          "url": "images/medal/medal2.jpg",
+          "isVertical": true,
+          "alternativeText": "three glass medals inside and outside of its packaging.",
+          "heightInPercent": 1,
+          "type": "image"
+        },
+        {
+          "type": "image",
+          "url": "images/medal/medal1.png",
+          "isVertical": false,
+          "alternativeText": "glass medal with 3 dimensional laser engraved Umprum slogan.",
+          "heightInPercent": 1
+        }
+      ]
+    },
+    {
+      "title": "website: vocabulary index algospeak",
+      "project-text" : "An Informative Online Index <a href='https://www.algospeak.info' target='_blank'>algospeak.info</a><br><br>We live in a world increasingly influenced by search engine-optimized and biased algorithms. Content often faces shadow banning or censorship due to the opaque nature of algorithms, which are often fed biased data, particularly when addressing issues of race, gender, class, or sexuality. This results in the emergence of a new, transient language phenomenon known as algospeak, which circumvents the restrictions imposed by discriminatory algorithms.<br>This interactive web index provides a list of shadow-banned and censored words identified by the algorithm as problematic. The vocabulary index compiles words from search engines such as Google and Amazon, as well as from social media platforms like TikTok and YouTube.<br>(website, 2022)",
+      "ID": 6,
+      "color": "#FF0000",
+      "images": [
+        {
+          "type": "video",
+          "url": "images/algo/algospeak_3.mp4",
+          "isVertical": false,
+          "alternativeText": "landingpage of the website algospeak.info. listing of shadowbanned words.",
+          "heightInPercent": 1
+        },
+        {
+          "type": "image",
+          "url": "images/algo/algo_2.jpg",
+          "isVertical": true,
+          "alternativeText": "three screenshots of examples when interacting and clicking on a button with one of the shadowbanned words.",
+          "heightInPercent": 1
+        }
+      ]
+    },
+    {
+        "title": "glass ceramic: homage to the microbiome",
+        "project-text" : "Support Your Local Microbes<br>Homage To The Microbiome<br><br>Given to the correlation of life and reason for fermentation, the potential of the microbiome should be celebrated, presented and positivized. Microbes that typically only visible under laboratory conditions are exposed as a sesory experience, focusing on their olfactory aspects.<br>This interactive exhibition setting aims to make the characteristics of microorganisms tangible. Accompanying the mobile exhibition is a newspaper dedicated to exploring the human microbiome and its impact on our evolving food culture.<br>(product design glass / ceramics, 2020)",
+        "ID": 7,
+        "color": "#0030B5",
+        "images": [
+          {
+            "type": "image",
+            "url": "images/microbes/microbes_1.jpg",
+            "isVertical": true,
+            "alternativeText": "Cone-shaped vessels out of glass including an inside stainless steel holder prepared with fermented goods for an olfactory experience.",
+            "heightInPercent": 1
+          },
+          {
+            "type": "image",
+            "url": "images/microbes/microbes_2.jpg",
+            "isVertical": true,
+            "alternativeText": "process pictures of the production of sillicon form.",
+            "heightInPercent": 0.5
+          },
+          {
+            "type": "image",
+            "url": "images/microbes/microbes_4.jpg",
+            "isVertical": false,
+            "alternativeText": "Cone-shaped vessels out of glass including an inside stainless steel holder prepared with fermented goods for an olfactory experience.",
+            "heightInPercent": 1
+          },
+          {
+            "type": "image",
+            "url": "images/microbes/microbes_5.jpg",
+            "isVertical": true,
+            "alternativeText": "Riso printed fermentation and food culture newspaper.",
+            "heightInPercent": 1
+          }
+        ]
+      },
+      {
+        "title": "experimental type design",
+        "project-text" : "Construction Foam Meets Metal Mesh<br><br>Material shapes letter. Each letter has an individual, organic shape created by the dynamics of expanding foam. The printed letters become a three dimensional appearance due to the strong contours and its air bubble structure.<br>(experimental type design, 2022)",
+        "ID": 11,
+        "color": "#D4F700",
+        "images": [
+          {
+            "type": "image",
+            "url": "images/ueberdruck/ueberdruck_2.jpg",
+            "isVertical": false,
+            "alternativeText": "printed poster with the slogan ueber druck.",
+            "heightInPercent": 1
+          },
+          {
+            "type": "image",
+            "url": "images/ueberdruck/ueberdruck_3.jpg",
+            "isVertical": true,
+            "alternativeText": "metal mesh with construction foam matrix.",
+            "heightInPercent": 1
+          }
+        ]
+      },
+      {
+        "title": "textile: fade",
+        "project-text" : "Fade<br><br>These fabrics can possibly make people aware of their habit of excessive consumption. But how is the end of a product’s life cycle defined and how is the process legitimized?<br>Upon weaving together naturally dyed and synthetically dyed yarn qualities, contrast emerges over time due the difference in lightfastness. Sections that fade at varying tempos create a completely new, vibrant surface aesthetic using the process of transience. Here, ‘wear‘ receives the status of a stand-alone quality.<br>In cooperation with the company Aquafil the 100% regenerated nylon yarn ECONYL was sponsored. The project was nominated for the GiebichenStein designprize 2019, was part of the Aquafil New Trend Meeting 2019 as well as exhibited at imm cologne 2020.<br>(textile design , 2019)",
+        "ID": 9,
+        "color": "#F87C05",
+        "images": [
+          {
+            "type": "image",
+            "url": "images/fade/fade_1.jpg",
+            "isVertical": true,
+            "alternativeText": "picture of weaving process and yarn color combinations.",
+            "heightInPercent": 0.5
+          },
+          {
+            "type": "image",
+            "url": "images/fade/fade_3.jpg",
+            "isVertical": false,
+            "alternativeText": "fade project textile collection.",
+            "heightInPercent": 1
+          }
+        ]
+      },
+      {
+        "title": "website design",
+        "project-text" : "Website Made for Holistic Massage Studio Elena Thalia Scholz.<br>(website, 2022)",
+        "ID": 10,
+        "color": "#C9D5FD",
+        "images": [
+          {
+            "type": "video",
+            "url": "images/elena/elena_1.mp4",
+            "isVertical": true,
+            "alternativeText": "landingpage of the website. animated buisness card is turning.",
+            "heightInPercent": 1
+          }
+        ]
+      },
+      {
+        "title": "porcelain: japan one",
+        "project-text" : "Japan One<br><br>Inspired by Japanese culinary techniques, a study of tools was initiated. These vessels combine the functions of traditional grinding bowls like the suribachi and graters such as the oroshiki. This unique cooking tool is suitable for preparing fresh tea or serves as versatile cooking equipment.<br>(product design porcelain, 2018)",
+        "ID": 8,
+        "color": "#986C34",
+        "images": [
+          {
+            "type": "image",
+            "url": "images/japan/japan_1.jpg",
+            "isVertical": false,
+            "alternativeText": "raw porcelain piece in pressure casting plaster form.",
+            "heightInPercent": 1
+          },
+          {
+            "type": "image",
+            "url": "images/japan/japan_2.jpg",
+            "isVertical": true,
+            "alternativeText": "product picture of three cooking tool vessels decorated with ginger and a wooden stick.",
+            "heightInPercent": 1
+          },
+          {
+            "type": "image",
+            "url": "images/japan/japan_3.jpg",
+            "isVertical": true,
+            "alternativeText": "illustrations of grinding and grating vessel.",
+            "heightInPercent": 1
+          }
+        ]
+      },
+      {
+        "title": "interactive documentation: info souvenir",
+        "project-text" : "Check <a href='https://www.info-souvenir.de' target='_blank'>info-souvenir.de</a> <br><br>In an information society, we can access knowledge 24/7. Information becomes a stimulus and floods us.The Info Souvenir project seeks to offer an alternative means of documenting informative events.<br><br>The documentation of the lecture series Jitsi Bitsi at weissensee school of art and design berlin creates a possibility to consciously retrieve information—a concept aimed to capture, reproduce, and retell moments.<br>Exclusive access to an associated online archive is provided through punch cards. This analog storage medium can be re-read digitally and offers access to a comprehensively curated audio documentation of the lecture.<br>In this context, documentation is not only the reproduction of knowledge, but also strives to capture the intangible essence of a moment and give it a tangible form. By utilizing atmospheric sensors, the events were measured in real time and translated into a three-dimensional, audio-reactive data object. This experimental approach redefines documentation and enables visual re-listening–an innovative means of reinterpretation.<br>(interactive documentation, 2024)",
+        "ID": 1,
+        "color": "#C0EF76",
+        "images": [
+          {
+            "type": "image",
+            "url": "images/infosouvenir/info_1.jpg",
+            "isVertical": true,
+            "alternativeText": "card stand",
+            "heightInPercent": 1
+          },
+          {
+            "type": "video",
+            "url": "images/infosouvenir/info_2.mp4",
+            "isVertical": false,
+            "alternativeText": "video interaction with punch card",
+            "heightInPercent": 1
+          },
+          {
+            "type": "image",
+            "url": "images/infosouvenir/info_3.jpg",
+            "isVertical": true,
+            "alternativeText": "sketch interaction with punch card and laptop",
+            "heightInPercent": 1
+          },
+          {
+            "type": "video",
+            "url": "images/infosouvenir/info_4.mp4",
+            "isVertical": false,
+            "alternativeText": "data bubbles in action",
+            "heightInPercent": 1
+          }
+        ]
+      },
+      {
+        "title": "exhibition design: casa di goethe",
+        "project-text" : "Casa di Goethe interventioni<br>25 years Museum Casa di Goethe in Rome<br><br>Interventions in permanent exhibitions are quick, playful and challenging – therefore an interesting method for revising or redesigning a museum. For the Casa di Goethe in Rome and the team around the new director Gregor Lersch, the 25th anniversary of the museum was a good occasion to introduce contemporary takes and new observations into the presentation of the institution’s collections, thereby connecting the museum with contemporary society.<br>The various interventions take a new look at Goethe's Italian journey through today's eyes. Central questions concerning today’s Europe are woven into the exhibition on Goethe’s life and times, such as the tense relationship between North and South, the question of the significance of women for Goethe, or the memory of National Socialism.<br> Check <a href='https://casadigoethe.it/en/exhibitions/temporary-exhibition/' target='_blank'>Casa di Goethe</a> <br>(exhibition design, 2023)",
+        "ID": 5,
+        "color": "#DE4C8A",
+        "images": [
+          {
+            "type": "image",
+            "url": "images/rom/rom_1.jpg",
+            "isVertical": false,
+            "alternativeText": "museum interactive wall for senses",
+            "heightInPercent": 1
+          },
+          {
+            "type": "image",
+            "url": "images/rom/rom_2.jpg",
+            "isVertical": false,
+            "alternativeText": "video installation museum",
+            "heightInPercent": 1
+          },
+          {
+            "type": "image",
+            "url": "images/rom/rom_3.jpg",
+            "isVertical": true,
+            "alternativeText": "binoculars",
+            "heightInPercent": 1
+          },
+          {
+            "type": "image",
+            "url": "images/rom/rom_4.jpg",
+            "isVertical": true,
+            "alternativeText": "museum goethe and woman",
+            "heightInPercent": 1
+          }
+        ]
+      },
+      {
+        "title": "poster: rundgang weißensee",
+        "project-text" : "Poster Series Design for Rundgang at Kunsthochschule weißensee.<br>(porcelain, aluminium, textile screen printed, 2023)",
+        "ID": 4,
+        "color": "#E30000",
+        "images": [
+          {
+            "type": "image",
+            "url": "images/rundgang/rundgang_1.jpg",
+            "isVertical": true,
+            "alternativeText": "poster series screenprinted on porcelain, aluminium, textile",
+            "heightInPercent": 1
+          },
+          {
+            "type": "image",
+            "url": "images/rundgang/rundgang_2.png",
+            "isVertical": true,
+            "alternativeText": "mockup poster on bus station",
+            "heightInPercent": 1
+          }
+        ]
+      },
+      {
+        "title": "exhibition design: is ok it?",
+        "project-text" : "Concept, key visuals und exhibition materials for the exhibition IS OK IT? at ZIRKA Space, Munich.<br>(exhibition design, 2024)<br><br>What purpose should design serve, what topics should it address? What are the needs of our society and our environment? What happens when design moves away from industrial restrictions and expectations? Design, like any other profession, has its limits. Instead of clear answers, the exhibition takes up questions and takes us on a search for underrepresented topics and their communication — and at best provides aesthetic solutions. Unconventional thematic formulations are only a small, but not insignificant part of the designer‘s profession. By visualising and materialising such issues, design can make a major contribution to more desirable social scenarios and decisions.",
+        "ID": 2,
+        "color": "#7E7E24",
+        "images": [
+          {
+            "type": "video",
+            "url": "images/isokit/isokit_1.mp4",
+            "isVertical": true,
+            "alternativeText": "posterseries video animation",
+            "heightInPercent": 1
+          },
+          {
+            "type": "image",
+            "url": "images/isokit/isokit_2.jpg",
+            "isVertical": true,
+            "alternativeText": "flyer of the exhibition",
+            "heightInPercent": 1
+          },
+          {
+            "type": "image",
+            "url": "images/isokit/isokit_3.jpg",
+            "isVertical": false,
+            "alternativeText": "room view of exhibition",
+            "heightInPercent": 1
+          }
+        ]
+      }
+  ]
+}

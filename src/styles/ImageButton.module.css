@@ -1,0 +1,21 @@
+.main {
+    /*width: 76px;*/
+    /*height: auto;*/
+    flex: 0 0 50px;
+}
+
+.main > img {
+    height: 72px;
+}
+
+@media screen and (max-width: 900px) {
+    .main {
+        /*width: 132px;*/
+        /*height: 107px;*/
+        flex: 0 0 79px;
+    }
+
+    .main > img {
+        height: auto;
+    }
+}

@@ -1,0 +1,267 @@
+{
+  "lene-who": "With an interdisciplinary approach Lene Zech sees design as a broad spectrum and field of exploration. She focuses on a strong conceptual basis and works closely related to material and digital media. Currently she is doing her MA in visual communication at weissensee School of Art and Design in Berlin after she graduated in product design for glass and ceramics from Burg Giebichenstein University of Art and Design in Halle, Germany. \n\nfollow on instagram lenezech or write a mail@lenezech.de",
+  "contact": {
+    "insta": "https://www.instagram.com/lenezech/",
+    "mail": "mail@lenezech.de"
+  },
+  "projects": [
+    {
+      "title": "commemorative medal UMPRUM Prague",
+      "project-text" : "New commemorative medal for UMPRUM University of Art, Architecture and Design in Prague.\\n\\n Three dimensional lettering of UMPRUM is been 3D laser engraved into glass. Letters are being created so that the schools name is readable just from one perspective. If the medal is turning the letters form new shapes and the object gets more interactive.3D type design, 2022",
+      "ID": 1,
+      "color": "#1810AB",
+      "images": [
+        {
+          "url": "images/medal/medal2.jpg",
+          "isVertical": true,
+          "alternativeTexts": "three glass medals inside and outside of its packaging.",
+          "heightInPercent": 1
+        },
+        {
+          "url": "images/medal/medal1.png",
+          "isVertical": false,
+          "alternativeTexts": "glass medal with 3 dimensional laser engraved Umprum slogan.",
+          "heightInPercent": 1
+        }
+      ]
+    },
+    {
+      "title": "informative online index algospeak",
+      "project-text" : "algospeak.info / an informative online index\\n\\nWe are moving within a pre-controlled world by search engine optimised and biased algorithms. Content gets shadow banned or censored because of the algorithmic black box fed with biased data when discussing issues of race, gender, class or sexuality. Outcome is a new ephemeral language development called algospeak, working around the moderation of a discriminative algorithm. This interactive web index shares a shadow banned and censored word list consisting of words which the algorithm is classifying as problematic. The vocabulary index collects words from search engines such as Google, Amazon as well as from social media platforms TikTok and Youtube.\n\nwebsite, 2022",
+      "ID": 2,
+      "color": "#FF0000",
+      "images": [
+        {
+          "url": "images/algo/algo_1.jpg",
+          "isVertical": false,
+          "alternativeTexts": "landingpage of the website algospeak.info. listing of shadowbanned words.",
+          "heightInPercent": 1
+        },
+        {
+          "url": "images/algo/algo_2.jpg",
+          "isVertical": true,
+          "alternativeTexts": "three screenshots of examples when interacting and clicking on a button with one of the shadowbanned words.",
+          "heightInPercent": 1
+        }
+      ]
+    },
+    {
+        "title": "homage to the microbiome",
+        "project-text" : "support your local microbes / homage to the microbiome\\n\\nCorrelation of life and reason for fermentation, the potential of the microbiome should be celebrated, presented and positivized. Microbes that can only be seen under laboratory conditions are exposed in this scenery as an olfactory experience. In this interactive exhibition the characteristics of microorganisms are made tangible. The mobile exhibition comes with a newspaper about the human microbiome and our changing food culture.\nBA product design glass / ceramics, 2020",
+        "ID": 3,
+        "color": "#0030B5",
+        "images": [
+          {
+            "url": "images/microbes/microbes_1.jpg",
+            "isVertical": false,
+            "alternativeTexts": "Cone-shaped vessels out of glass including an inside stainless steel holder prepared with fermented goods for an olfactory experience. ",
+            "heightInPercent": 1
+          },
+          {
+            "url": "images/microbes/microbes_2.png",
+            "isVertical": true,
+            "alternativeTexts": "Riso printed fermentation and food culture newspaper.",
+            "heightInPercent": "1"
+          },
+          {
+            "url": "images/microbes/microbes_3.jpg",
+            "isVertical": true,
+            "alternativeTexts": "Riso printed fermentation and food culture newspaper.",
+            "heightInPercent": 1
+          },
+          {
+            "url": "images/microbes/microbes_4.png",
+            "isVertical": true,
+            "alternativeTexts": "process pictures of the production of sillicon form.",
+            "heightInPercent": 0.5
+          },
+          {
+            "url": "images/microbes/microbes_5.png",
+            "isVertical": true,
+            "alternativeTexts": "process picture of raw cone-shaped glass vessels.",
+            "heightInPercent": 0.5
+          },
+          {
+            "url": "images/microbes/microbes_6.png",
+            "isVertical": true,
+            "alternativeTexts": "process picture of glass blowing technique",
+            "heightInPercent": 0.5
+          },
+          {
+            "url": "images/microbes/microbes_7.tif",
+            "isVertical": true,
+            "alternativeTexts": "a woman eating the fermented good from the stainless steel holder",
+            "heightInPercent": 1
+          },
+          {
+            "url": "images/microbes/microbes_8.png",
+            "isVertical": true,
+            "alternativeTexts": "drawn instruction illustrations of how to use the vessels. seeing, smelling, eating.",
+            "heightInPercent": 1
+          }
+        ]
+      },
+      {
+        "title": "experimental type",
+        "project-text" : "construction foam X metal mesh / experimental type\\n\\nMaterial shapes letter. Each letter has an individual, organic shape created by the dynamics of expanding foam. The printed letters become a three dimensional appearance due to the strong contours and its air bubble structure.type design, 2022",
+        "ID": 4,
+        "color": "#D4F700",
+        "images": [
+          {
+            "url": "images/ueberdruck/ueberdruck_1.png",
+            "isVertical": false,
+            "alternativeTexts": "detail close-up of printed poster.",
+            "heightInPercent": 1
+          },
+          {
+            "url": "images/ueberdruck/ueberdruck_2.png",
+            "isVertical": true,
+            "alternativeTexts": "process picture of building the construction foam type and sticking it to the metal mesh.",
+            "heightInPercent": 0.5
+          },
+          {
+            "url": "images/ueberdruck/ueberdruck_3.png",
+            "isVertical": true,
+            "alternativeTexts": "printed poster with the slogan ueber druck.",
+            "heightInPercent": 1
+          },
+          {
+            "url": "images/ueberdruck/ueberdruck_4.png",
+            "isVertical": true,
+            "alternativeTexts": "printed poster with the slogan ueber druck.",
+            "heightInPercent": 1
+          },
+          {
+            "url": "images/ueberdruck/ueberdruck_5.png",
+            "isVertical": true,
+            "alternativeTexts": "metal mesh with construction foam matrix.",
+            "heightInPercent": 1
+          }
+        ]
+      },
+      {
+        "title": "textile design",
+        "project-text" : "fade / textile design\\n\\nThese fabrics can possibly make people aware of their habit of excessive consumption. But how is the end of a product’s life cycle defined and how is the process legitimized? Upon weaving together naturally dyed and synthetically dyed yarn qualities, contrast emerges over time due the difference in lightfastness. Sections that fade at varying tempos create a completely new, vibrant surface aesthetic using the process of transience. Here, ‘wear‘ receives the status of a stand-alone quality. In cooperation with the company Aquafil the 100% regenerated nylon yarn ECONYL was sponsored. The project was nominated for the GiebichenStein designprize 2019, was part of the Aquafil New Trend Meeting 2019 as well as exhibited at imm cologne 2020.\\n textiles, 2019",
+        "ID": 5,
+        "color": "#F87C05",
+        "images": [
+          {
+            "url": "images/fade/fade_1.png",
+            "isVertical": true,
+            "alternativeTexts": "detail close-up of textiles.",
+            "heightInPercent": 1
+          },
+          {
+            "url": "images/fade/fade_2.png",
+            "isVertical": true,
+            "alternativeTexts": "picture of weaving process and yarn color combinations.",
+            "heightInPercent": 0.5
+          },
+          {
+            "url": "images/fade/fade_3.png",
+            "isVertical": false,
+            "alternativeTexts": "fade project textile collection.",
+            "heightInPercent": 1
+          }
+        ]
+      },
+      {
+        "title": "website design",
+        "project-text" : "website made for holistic massage studio Elena Thalia Scholz.\\n website design, 2022",
+        "ID": 6,
+        "color": "#C9D5FD",
+        "images": [
+          {
+            "url": "images/elena/elena_1.jpg",
+            "isVertical": false,
+            "alternativeTexts": "landingpage of the website. animated buisness card is turning.",
+            "heightInPercent": 1
+          }
+        ]
+      },
+      {
+        "title": "porcelain design",
+        "project-text" : "japan one / cooking tool\\n\\n Inspired by Japanese culinary skills, a study of tools began. The vessels combine both functions of the typical structured grinding bowl, suribachi and the grater, oroshiki. This new cooking tool is suitable to prepare fresh tea or multifunctional as cooking equipment.\\n porcelain product design, 2018",
+        "ID": 7,
+        "color": "#986C34",
+        "images": [
+          {
+            "url": "images/japan1/japan1_1.jpg",
+            "isVertical": false,
+            "alternativeTexts": "raw porcelain piece in pressure casting plaster form.",
+            "heightInPercent": 1
+          },
+          {
+            "url": "images/japan1/japan1_2.png",
+            "isVertical": false,
+            "alternativeTexts": "illustrations of grinding and grating vessel.",
+            "heightInPercent": 1
+          },
+          {
+            "url": "images/japan1/japan1_3.jpg",
+            "isVertical": true,
+            "alternativeTexts": "product picture of three cooking tool vessels decorated with ginger and a wooden stick.",
+            "heightInPercent": 1
+          }
+        ]
+      },
+      {
+        "title": "glaze experiments",
+        "project-text" : "japan two / glaze experiments\\n\\n Based on the observation of the Japanese green tea production procedure on tea plantations, the goal was to develop a porcelain glaze by reusing the local tea production waste around Arita village. In collaboration with Arita College of Ceramics and Saga Ceramic Research Laboratory, a glaze from tea waste was made, which consists only of natural ingredients and does not contain chemical components.\\n porcelain product design, 2018",
+        "ID": 8,
+        "color": "#8A8F35",
+        "images": [
+          {
+            "url": "images/japan2/japan2_0.png",
+            "isVertical": true,
+            "alternativeTexts": "compressed waste material of green tea production.",
+            "heightInPercent": 0.7
+          },
+          {
+            "url": "images/japan2/japan2_1.jpg",
+            "isVertical": true,
+            "alternativeTexts": "picture of green tea production in japan.",
+            "heightInPercent": 1
+          },
+          {
+            "url": "images/japan2/japan2_3.jpg",
+            "isVertical": false,
+            "alternativeTexts": "product picture of porcelain tea ceremony set with glaze made out of tea waste production.",
+            "heightInPercent": 1
+          },
+          {
+            "url": "images/japan2/japan2_4.png",
+            "isVertical": false,
+            "alternativeTexts": "several glaze experiments on porcelain.",
+            "heightInPercent": 0.4
+          }
+        ]
+      },
+      {
+        "title": "letterpress prints",
+        "project-text" : "letterpress prints\\n\\n Was den Blick aufhält, begrenzt, eine Illusion des Reliefs und der Distanz. / That which stops the gaze, limits, an illusion of relief and distance.\\n– ‘Träume von Räumen’ written by George Perec\\n typography, 2021",
+        "ID": 9,
+        "color": "#D4F700",
+        "images": [
+          {
+            "url": "images/letterpress/letterpress_1.jpg",
+            "isVertical": true,
+            "alternativeTexts": "a printer is holding the poster",
+            "heightInPercent": 1
+          },
+          {
+            "url": "images/letterpress/letterpress_2.png",
+            "isVertical": true,
+            "alternativeTexts": "printed poster",
+            "heightInPercent": 1
+          },
+          {
+            "url": "images/letterpress/letterpress_3.png",
+            "isVertical": false,
+            "alternativeTexts": "wooden matrix for letterpress",
+            "heightInPercent": 1
+          }
+        ]
+      }
+  ]
+}

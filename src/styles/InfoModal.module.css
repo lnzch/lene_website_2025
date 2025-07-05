@@ -1,0 +1,26 @@
+.main {
+    position: absolute;
+    width: 520px;
+    padding: 8px;
+    border: solid 1px black;
+    background-color: white;
+    transform: translate(calc(-100% + 24px), -22px);
+    z-index: 10;
+}
+
+
+.text > a {
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 900px) {
+    .main {
+        width: calc(100vw - 8px);
+        transform: translate(calc(-100% + 79px), -36px);
+    }
+
+    .text {
+        font-size: 16px;
+        line-height: 20px;
+    }
+}

@@ -51,7 +51,7 @@
     },
       {
         "title": "catalogue: goethe interventioni",
-        "project-text" : "25 years museum Casa di Goethe in Rome<br><br>Catalogue for the exhibition “Goethe interventioni” at Casa di Goethe in Rome.<br>(exhibition catalogue, 2025)",
+        "project-text" : "25 Years Museum Casa di Goethe, Rome<br><br>Catalogue for the exhibition “Goethe interventioni” at Casa di Goethe in Rome.<br>(exhibition catalogue, 2025)",
         "ID": 2,
         "color": "#DE4C8A",
         "images": [
@@ -68,12 +68,12 @@
             "isVertical": true,
             "alternativeText": "animation illustration catalogue",
             "heightInPercent": 1
-          }
+          },
           {
             "type": "video",
             "url": "images/katalog/katalog_3.mp4",
             "isVertical": false,
-            "alternativeText": "cataloque pages presented",
+            "alternativeText": "catalogue pages presented",
             "heightInPercent": 1
           }
         ]
